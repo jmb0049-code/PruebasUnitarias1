@@ -47,7 +47,13 @@ Para verificar el funcionamiento:
 2. Cargar las dependencias mediante el panel de **Maven**.
 3. Ejecutar la clase `ValidadorRegistroTest`.
 4. Todos los indicadores deben aparecer en **verde (Passed) ✅**.
+   
+   La verificación es la siguiente:
+<img width="997" height="306" alt="image" src="https://github.com/user-attachments/assets/619bf7b4-7221-4c25-aa65-9a1c43cf0438" />
 
 ---
+
 **Desarrollado por:** jmb0049-code  
 **Curso:** Testing y QA Automation
+
+
